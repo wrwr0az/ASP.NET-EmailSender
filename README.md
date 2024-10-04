@@ -1,4 +1,4 @@
-# Email Sender Web Application USING ASP.NET Framework
+# Email Sender Web Application Using ASP.NET Framework
 
 This is a simple ASP.NET web application for sending emails to multiple recipients with support for file attachments. Users can send emails through different SMTP servers by providing credentials, selecting a port number, and optionally attaching multiple files.
 
